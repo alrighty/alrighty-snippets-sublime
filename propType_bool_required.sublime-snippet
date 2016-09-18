@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:myProp}: PropTypes.bool.isRequired,
+]]></content>
+  <tabTrigger>_rpbr</tabTrigger>
+  <scope>source.js,source.jsx</scope>
+  <description>React: PropTypes bool required</description>
+</snippet>

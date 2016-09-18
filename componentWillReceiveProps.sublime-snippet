@@ -5,6 +5,6 @@ componentWillReceiveProps(nextProps) {
 }
 ]]></content>
   <tabTrigger>_rcwrp</tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.js,source.jsx</scope>
   <description>React: componentWillReceiveProps</description>
 </snippet>

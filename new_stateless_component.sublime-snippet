@@ -11,6 +11,6 @@ ${3:MyComponent}.propTypes = {
 }
 ]]></content>
     <tabTrigger>_rns</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js,source.jsx</scope>
     <description>React: New Stateless Component</description>
 </snippet>

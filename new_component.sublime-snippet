@@ -15,6 +15,6 @@ export default class ${1:MyComponent} extends Component {
 }
 ]]></content>
 	<tabTrigger>_rnc</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js,source.jsx</scope>
 	<description>React: New Component</description>
 </snippet>
