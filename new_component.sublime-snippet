@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+import React, { Component, PropTypes } from 'react';
+
+export default class ${1:MyComponent} extends Component {
+	static propTypes = {
+
+	};
+
+	render() {
+	  return (
+			${2:<div>MyComponent</div>}
+	  );
+	}
+}
+]]></content>
+	<tabTrigger>_rnc</tabTrigger>
+	<scope>source.js</scope>
+	<description>React: New Component</description>
+</snippet>

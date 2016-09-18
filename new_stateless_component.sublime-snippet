@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+import React, { PropTypes } from 'react';
+
+export const ${1:MyComponent} = props => {
+  return (
+    ${2:<div>MyComponent</div>}
+  );
+}
+${3:MyComponent}.propTypes = {
+}
+]]></content>
+    <tabTrigger>_rns</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: New Stateless Component</description>
+</snippet>

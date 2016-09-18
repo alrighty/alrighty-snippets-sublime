@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:myProp}: PropTypes.number,
+]]></content>
+  <tabTrigger>_rpn</tabTrigger>
+  <scope>source.js</scope>
+  <description>React: PropTypes number</description>
+</snippet>

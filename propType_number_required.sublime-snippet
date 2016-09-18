@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:myProp}: PropTypes.number.isRequired,
+]]></content>
+  <tabTrigger>_rpnr</tabTrigger>
+  <scope>source.js</scope>
+  <description>React: PropTypes number required</description>
+</snippet>
